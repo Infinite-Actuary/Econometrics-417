@@ -2,11 +2,11 @@
 
 [![Pearson Text](https://www.pearsonhighered.com/assets/bigcovers/0/1/3/3/0133595420.jpg)](http://www.mypearsonstore.com/bookstore/introduction-to-econometrics-update-plus-new-mylab-9780133595420?xid=PSED)
 
-### Econometrics: Methods and Applications
+## Econometrics: Methods and Applications
 ```diff
-+ https://www.coursera.org/learn/erasmus-econometrics
+An 8 week course offered by Erasmus School of Economics via [Coursera](https://www.coursera.org/)
 ```
-* An 8 week course offered by Erasmus School of Economics via [Coursera](https://www.coursera.org/)
+### https://www.coursera.org/learn/erasmus-econometrics
 
 ### [A Full Course in Econometrics](https://www.youtube.com/user/SpartacanUsuals/playlists)
 * A comprehensive series on YouTube by [Ben Lambert](https://ben-lambert.com/about/)
