@@ -2,19 +2,14 @@
 
 [![Pearson Text](https://www.pearsonhighered.com/assets/bigcovers/0/1/3/3/0133595420.jpg)](http://www.mypearsonstore.com/bookstore/introduction-to-econometrics-update-plus-new-mylab-9780133595420?xid=PSED)
 
-## Econometrics: Methods and Applications
-```diff
-An 8 week course offered by Erasmus School of Economics via [Coursera](https://www.coursera.org/)
-```
-### https://www.coursera.org/learn/erasmus-econometrics
+## [Econometrics: Methods and Applications](https://www.coursera.org/learn/erasmus-econometrics)
 
-### [A Full Course in Econometrics](https://www.youtube.com/user/SpartacanUsuals/playlists)
-* A comprehensive series on YouTube by [Ben Lambert](https://ben-lambert.com/about/)
+An 8 week course offered by [Erasmus School of Economics](https://www.eur.nl/en/ese/) on [Coursera](https://www.coursera.org/)
 
-### [Stata Tutorial using Econometrics](https://www.youtube.com/watch?v=YMt5K68ZvjQ&list=PLRW9kMvtNZOh7Xt1m5Mlhhz2wtr0tCUEE)
-* A YouTube series from [econometricsacademy](https://sites.google.com/site/econometricsacademy/econometrics-software/stata)
+## [A Full Course in Econometrics](https://www.youtube.com/user/SpartacanUsuals/playlists)
 
+A comprehensive series on YouTube by [Ben Lambert](https://ben-lambert.com/about/)
 
-```diff
-- The server is currently using weak security credentials or the certificate has expired.
-```
+## [Stata Tutorial using Econometrics](https://www.youtube.com/watch?v=YMt5K68ZvjQ&list=PLRW9kMvtNZOh7Xt1m5Mlhhz2wtr0tCUEE)
+
+A YouTube series from [econometricsacademy](https://sites.google.com/site/econometricsacademy/econometrics-software/stata) 
