@@ -1,4 +1,6 @@
-# [Introductory Econometrics](https://bulletin.unl.edu/undergraduate/courses/ECON/417)
+# [Introduction to Econometrics](https://bulletin.unl.edu/undergraduate/courses/ECON/417)
+
+![book cover](https://www.pearsonhighered.com/assets/bigcovers/0/1/3/3/0133595420.jpg)
 
 ### [Econometrics: Methods and Applications](https://www.coursera.org/learn/erasmus-econometrics)
 * An 8 week course offered by Erasmus School of Economics via [Coursera](https://www.coursera.org/)
