@@ -1,7 +1,6 @@
 # [Introduction to Econometrics at UNL](https://bulletin.unl.edu/undergraduate/courses/ECON/417)
 
-##
-```diff
+##```diff
 - The server is currently using weak security credentials or the certificate has expired.
 ```
 
