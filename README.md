@@ -1,8 +1,4 @@
-# [Introduction to Econometrics at UNL](https://bulletin.unl.edu/undergraduate/courses/ECON/417)
-
-##```diff
-- The server is currently using weak security credentials or the certificate has expired.
-```
+# Introduction to [Econometrics at UNL](https://bulletin.unl.edu/undergraduate/courses/ECON/417)
 
 [![Pearson Text](https://www.pearsonhighered.com/assets/bigcovers/0/1/3/3/0133595420.jpg)](http://www.mypearsonstore.com/bookstore/introduction-to-econometrics-update-plus-new-mylab-9780133595420?xid=PSED)
 
