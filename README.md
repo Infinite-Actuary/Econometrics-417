@@ -8,6 +8,4 @@
 
 ## Other Resources:
 
-### [A Full Course in Econometrics](https://www.youtube.com/user/SpartacanUsuals/playlists)
-
-A comprehensive series on YouTube by [Ben Lambert](https://ben-lambert.com/about/)
+* [A Full Course in Econometrics](https://www.youtube.com/user/SpartacanUsuals/playlists) - A comprehensive series on YouTube by [Ben Lambert](https://ben-lambert.com/about/)
