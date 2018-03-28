@@ -2,7 +2,7 @@
 
 [![Pearson Text](https://www.pearsonhighered.com/assets/bigcovers/0/1/3/3/0133595420.jpg)](https://unl.box.com/v/ite3)
 
-` Requires a [Djvu Reader](https://windjview.sourceforge.io/)`
+####### Requires a [Djvu Reader](https://windjview.sourceforge.io/)
 
 ## Resources
 
