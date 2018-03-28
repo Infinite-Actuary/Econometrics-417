@@ -1,8 +1,8 @@
-# Introduction to Econometrics (ECON 417) at UNL
+# Introduction to Econometrics 3rd Ed
 
 [![Pearson Text](https://www.pearsonhighered.com/assets/bigcovers/0/1/3/3/0133595420.jpg)](https://unl.box.com/v/ite3)
 
-#
+# Statistics with Stata v12
 
 [![Statistics with Stata v12](https://github.com/Infinite-Actuary/Econometrics-417/blob/master/data/stats-with-stata.jpeg)](https://unl.box.com/s/ldfquhsorxj6hwqdgppobyxscmrmfarq)
 
