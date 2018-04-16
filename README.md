@@ -1,6 +1,6 @@
 # Introduction to Econometrics 3rd Ed
 
-[![Pearson Text](https://www.pearsonhighered.com/assets/bigcovers/0/1/3/3/0133595420.jpg)](https://unl.box.com/v/ite3)
+[![Pearson Text](https://www.pearsonhighered.com/assets/bigcovers/0/1/3/3/0133595420.jpg)](https://unl.box.com/s/tc28293vr0q1zpp8k1gyjrt38r4qysyw)
 
 # Statistics with Stata v12
 
